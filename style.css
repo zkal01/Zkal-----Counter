@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    width: 100%;
+    text-align: center;
+    height: 100%;
+}
+
+h1{
+    font-size: 30px;
+    display: inline-block;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.painel{
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.painel h2{
+    font-weight: bold;
+    font-size: 200px
+}
